@@ -1,8 +1,9 @@
+# Review Page
+
 本页面为所有代码的做法与总结。
 
-
 ---
-**1. [Two_Sum.py]()**      Level: Easy
+**1. [Two_Sum.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Two_Sum.py)**      Level: Easy
       
 
 1. 将target与num的差值作为key，nums的index作为值存入字典，通过index遍历nums列表，同时比对字典的keys，若比对成功，返回两个index；失败则进行下一个值的比对。
