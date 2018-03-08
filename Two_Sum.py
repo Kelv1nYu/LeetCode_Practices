@@ -6,17 +6,15 @@ class Solution:
         :rtype: List[int]
         """
         rest = dict()
-        result = list()
+        # result = list()
 
-        for num in nums:
-            if target - num != num:
-                rest[target - num] = num
 
         for index in range(len(nums)):
-            # print (index)
             if nums[index] not in rest.keys():
-                continue
+                rest[target - nums[index]] = index
             else:
-                result.append(index)
+                # result.append(rest[nums[index]])
+                # result.append(index)
+                return [rest[nums[index]], index]
 
-        return result
+        # return result
