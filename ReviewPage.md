@@ -16,3 +16,12 @@
 
 
 ---
+**2. [Jewels_and_Stones.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Jewels_and_Stones.py)**      Level: Easy
+      
+
+1. 遍历S字符串同时与J字符串进行比对
+
+2. 优化：
+
+
+---
