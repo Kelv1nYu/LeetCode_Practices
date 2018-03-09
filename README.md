@@ -12,4 +12,4 @@ some problems and answers about leetCode
 |1|[Jewels_and_Stones](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Problems/Jewels_and_Stones.md)|Easy|Python3|[String]|
 |2|[Hamming_Distance](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Problems/Hamming_Distance.md)|Easy|Python3|[String,binary]|
 |3|[Judge_Route_Circle](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Problems/Judge_Route_Circle.md)|Easy|Python3|[String]|
-|3|[Self_Dividing_Numbers](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Problems/Self_Dividing_Numbers.md)|Easy|Python3|[Int,String,List]|
+|4|[Self_Dividing_Numbers](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Problems/Self_Dividing_Numbers.md)|Easy|Python3|[Int,String,List]|
