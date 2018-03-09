@@ -25,3 +25,15 @@
 
 
 ---
+**3. [Hamming_Distance.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Hamming_Distance.py)**      Level: Easy
+      
+
+1. 将整形转化为二进制字符串，逐一比对
+
+2. 不足与失误：
+   1. 如直接用内置函数bin()进行转换会生成'0b'开头的字符串，故使用str.format()方法['{0:b}'.format()]来将十进制整形转换为二进制字符串
+
+3. 另一种做法bin(x^y).count(1),即直接使用亦或运算，转化为二进制之后再用str.count()方法计算1出现的次数。（该方法虽只需一行，但运行所需时间比我的方法要长，故不清楚是否算优化）
+
+
+---
