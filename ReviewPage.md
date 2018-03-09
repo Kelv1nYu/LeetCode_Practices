@@ -49,3 +49,15 @@
 
 
 ---
+**4. [Self_Dividing_Numbers.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Self_Dividing_Numbers.py)**      Level: Easy
+      
+
+1. 将int类型转换为str类型，对其中每一个数字取余；判断余数为0的次数是否等于数字位数，添加到list中或跳过该数字。
+2. 将范围内所有符合条件的数字放到list中，只需判断input的数字是否在该list中即可。（虽耗时少，但不推荐）
+3. 运算符<code>//</code>为取整除 - 返回商的整数部分
+4. 返回值书写方式：
+   1. [对(x)的操作 for x in 集合 if 条件]
+   2. [对(x,y)的操作 for x in 集合1 for y in 集合2 if 条件]
+
+
+---
