@@ -3,7 +3,7 @@
 本页面为所有代码的做法与总结。
 
 ---
-**1. [Two_Sum.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Two_Sum.py)**      Level: Easy
+**0. [Two_Sum.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Two_Sum.py)**      Level: Easy
       
 
 1. 将target与num的差值作为key，nums的index作为值存入字典，通过index遍历nums列表，同时比对字典的keys，若比对成功，返回两个index；失败则进行下一个值的比对。
@@ -16,24 +16,36 @@
 
 
 ---
-**2. [Jewels_and_Stones.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Jewels_and_Stones.py)**      Level: Easy
+**1. [Jewels_and_Stones.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Jewels_and_Stones.py)**      Level: Easy
       
 
-1. 遍历S字符串同时与J字符串进行比对
+1. 遍历S字符串同时与J字符串进行比对。
 
 2. 优化：
 
 
 ---
-**3. [Hamming_Distance.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Hamming_Distance.py)**      Level: Easy
+**2. [Hamming_Distance.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Hamming_Distance.py)**      Level: Easy
       
 
-1. 将整形转化为二进制字符串，逐一比对
+1. 将整形转化为二进制字符串，逐一比对。
 
 2. 不足与失误：
-   1. 如直接用内置函数bin()进行转换会生成'0b'开头的字符串，故使用str.format()方法['{0:b}'.format()]来将十进制整形转换为二进制字符串
+   1. 如直接用内置函数bin()进行转换会生成'0b'开头的字符串，故使用str.format()方法['{0:b}'.format()]来将十进制整形转换为二进制字符串。
 
-3. 另一种做法bin(x^y).count(1),即直接使用亦或运算，转化为二进制之后再用str.count()方法计算1出现的次数。（该方法虽只需一行，但运行所需时间比我的方法要长，故不清楚是否算优化）
+3. 另一种做法<code>bin(x^y).count(1)</code>,即直接使用亦或运算，转化为二进制之后再用str.count()方法计算1出现的次数。（该方法虽只需一行，但运行所需时间比我的方法要长，故不清楚是否算优化）
+
+
+---
+**3. [Judge_Route_Circle.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Judge_Route_Circle.py)**      Level: Easy
+      
+
+1. 新建一个元组（x, y）作为原点，遍历字符串，根据UDLF进行x、y的加减操作，最后判断x，y是否皆为0。
+
+2. 不足与失误：
+   1. 可以直接使用str.count()函数判断字符串内的UDLF数量，通过判断U与D，L与F的数量是否相等来返回True或False；
+   2. 缩写为一行代码即 <code>return moves.count("U") == moves.count("D") and moves.count("L") == moves.count("R")</code>；
+   3. 该代码运行所需时间较少。
 
 
 ---
