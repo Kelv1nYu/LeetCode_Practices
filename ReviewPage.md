@@ -61,3 +61,12 @@
 
 
 ---
+**4. [Array_Partition_I.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Array_Partition_I.py)**      Level: Easy
+      
+
+1. 使用list的sort函数将其进行排序。
+2. 由于顺序已经排好，所以将list中的元素两两分组取最小值时，最小值必定为前一个数字。所以将该list进行step为2的切片得到一个新的数组并对内部元素求和即可。
+3. 求和时可以选用for循环进行累加，也可以使用python3内置的sum()函数。
+
+
+---
