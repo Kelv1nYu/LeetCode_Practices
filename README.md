@@ -14,3 +14,4 @@ some problems and answers about leetCode
 |3|[Judge_Route_Circle](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Problems/Judge_Route_Circle.md)|Easy|Python3|[String]|
 |4|[Self_Dividing_Numbers](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Problems/Self_Dividing_Numbers.md)|Easy|Python3|[Int,String,List]|
 |5|[Array_Partition_I](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Problems/Array_Partition_I.md)|Easy|Python3|[List]|
+|5|[Number_Complement](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Problems/Number_Complement.md)|Easy|Python3|[Bit,Binary]|
