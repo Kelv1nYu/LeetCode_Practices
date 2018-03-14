@@ -1,4 +1,4 @@
-# leetCode practices
+# LeetCode Practices
 
 some problems and answers about leetCode
 
