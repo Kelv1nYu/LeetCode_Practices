@@ -18,8 +18,8 @@ Output: false
 
 ####  Go to answer
 
-[Judge_Route_Circle.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Judge_Route_Circle.py)
+[Judge_Route_Circle.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Judge_Route_Circle.py)
 
 #### Go to review
 
-[Review Page](https://github.com/Kelv1nYu/leetCode_practices/blob/master/ReviewPage.md)
+[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/ReviewPage.md)

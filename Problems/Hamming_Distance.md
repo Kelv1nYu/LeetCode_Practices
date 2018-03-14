@@ -24,8 +24,8 @@ The above arrows point to positions where the corresponding bits are different.
 
 ####  Go to answer
 
-[Hamming_Distance.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Hamming_Distance.py)
+[Hamming_Distance.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Hamming_Distance.py)
 
 #### Go to review
 
-[Review Page](https://github.com/Kelv1nYu/leetCode_practices/blob/master/ReviewPage.md)
+[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/ReviewPage.md)

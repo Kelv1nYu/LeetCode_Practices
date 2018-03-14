@@ -14,8 +14,8 @@ return [0, 1].
 
 ####  Go to answer
 
-[Two_Sum.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Two_Sum.py)
+[Two_Sum.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Two_Sum.py)
 
 #### Go to review
 
-[Review Page](https://github.com/Kelv1nYu/leetCode_practices/blob/master/ReviewPage.md)
+[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/ReviewPage.md)

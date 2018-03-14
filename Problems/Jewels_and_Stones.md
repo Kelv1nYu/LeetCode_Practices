@@ -22,8 +22,8 @@ Output: 0
 
 ####  Go to answer
 
-[Jewels_and_Stones.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Jewels_and_Stones.py)
+[Jewels_and_Stones.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Jewels_and_Stones.py)
 
 #### Go to review
 
-[Review Page](https://github.com/Kelv1nYu/leetCode_practices/blob/master/ReviewPage.md)
+[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/ReviewPage.md)

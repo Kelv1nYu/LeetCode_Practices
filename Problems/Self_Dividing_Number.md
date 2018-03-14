@@ -22,8 +22,8 @@ The boundaries of each input argument are <code>1 <= left <= right <= 10000</cod
 
 ####  Go to answer
 
-[Self_Dividing_Numbers.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Self_Dividing_Numbers.py)
+[Self_Dividing_Numbers.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Self_Dividing_Numbers.py)
 
 #### Go to review
 
-[Review Page](https://github.com/Kelv1nYu/leetCode_practices/blob/master/ReviewPage.md)
+[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/ReviewPage.md)

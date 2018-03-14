@@ -3,7 +3,7 @@
 本页面为所有代码的做法与总结。
 
 ---
-**0. [Two_Sum.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Two_Sum.py)**      Level: Easy
+**0. [Two_Sum.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Two_Sum.py)**      Level: Easy
       
 
 1. 将target与num的差值作为key，nums的index作为值存入字典，通过index遍历nums列表，同时比对字典的keys，若比对成功，返回两个index；失败则进行下一个值的比对。
@@ -14,7 +14,7 @@
 
 
 ---
-**1. [Jewels_and_Stones.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Jewels_and_Stones.py)**      Level: Easy
+**1. [Jewels_and_Stones.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Jewels_and_Stones.py)**      Level: Easy
       
 
 1. 遍历S字符串同时与J字符串进行比对。
@@ -22,7 +22,7 @@
 
 
 ---
-**2. [Hamming_Distance.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Hamming_Distance.py)**      Level: Easy
+**2. [Hamming_Distance.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Hamming_Distance.py)**      Level: Easy
       
 
 1. 将整形转化为二进制字符串，逐一比对。
@@ -32,7 +32,7 @@
 
 
 ---
-**3. [Judge_Route_Circle.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Judge_Route_Circle.py)**      Level: Easy
+**3. [Judge_Route_Circle.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Judge_Route_Circle.py)**      Level: Easy
       
 
 1. 新建一个元组（x, y）作为原点，遍历字符串，根据UDLF进行x、y的加减操作，最后判断x，y是否皆为0。
@@ -43,7 +43,7 @@
 
 
 ---
-**4. [Self_Dividing_Numbers.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Self_Dividing_Numbers.py)**      Level: Easy
+**4. [Self_Dividing_Numbers.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Self_Dividing_Numbers.py)**      Level: Easy
       
 
 1. 将int类型转换为str类型，对其中每一个数字取余；判断余数为0的次数是否等于数字位数，添加到list中或跳过该数字。
@@ -55,7 +55,7 @@
 
 
 ---
-**5. [Array_Partition_I.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Array_Partition_I.py)**      Level: Easy
+**5. [Array_Partition_I.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Array_Partition_I.py)**      Level: Easy
       
 
 1. 使用list的sort函数将其进行排序。
@@ -73,10 +73,22 @@
 
 
 ---
-**7. [Reverse_String.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Reverse_String.py)**      Level: Easy
+**7. [Reverse_String.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Reverse_String.py)**      Level: Easy
       
 
 1. 使用切片（Slice）直接返回从后至前排列的字符串。
+
+
+---
+**8. [Reverse_Words_in_a_String_III.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Reverse_Words_in_a_String_III.py)**      Level: Easy
+      
+
+1. 使用split()方法将字符串用空格隔开，遍历得到的字符串列表，使用字符串加法将反向排序的字符串（使用切片实现反向排序）相加，去掉首尾的空格
+2. join()方法可以将序列中的元素以指定的字符连接生成一个新的字符串。
+3. 另附两个第二种方法的代码：
+   1. <code>words = s.split(' ')</code><br>
+      <code>return ' '.join([x[::-1] for x in words])</code>
+   2. <code>return ' '.join(s.split()[::-1])[::-1]</code>
 
 
 ---

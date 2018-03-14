@@ -8,8 +8,8 @@ Given s = "hello", return "olleh".
 
 ####  Go to answer
 
-[Reverse_String.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Reverse_String.py)
+[Reverse_String.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Reverse_String.py)
 
 #### Go to review
 
-[Review Page](https://github.com/Kelv1nYu/leetCode_practices/blob/master/ReviewPage.md)
+[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/ReviewPage.md)

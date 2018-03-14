@@ -23,8 +23,8 @@ Explanation: The binary representation of 1 is 1 (no leading zero bits), and its
 
 ####  Go to answer
 
-[Number_Complement.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Number_Complement.py)
+[Number_Complement.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Number_Complement.py)
 
 #### Go to review
 
-[Review Page](https://github.com/Kelv1nYu/leetCode_practices/blob/master/ReviewPage.md)
+[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/ReviewPage.md)

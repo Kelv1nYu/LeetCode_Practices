@@ -17,8 +17,8 @@ Explanation: n is 2, and the maximum sum of pairs is 4 = min(1, 2) + min(3, 4).
 
 ####  Go to answer
 
-[Array_Partition_I.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Array_Partition_I.py)
+[Array_Partition_I.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Array_Partition_I.py)
 
 #### Go to review
 
-[Review Page](https://github.com/Kelv1nYu/leetCode_practices/blob/master/ReviewPage.md)
+[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/ReviewPage.md)
