@@ -73,3 +73,10 @@
 
 
 ---
+**7. [Reverse_String.py](https://github.com/Kelv1nYu/leetCode_practices/blob/master/Code/Reverse_String.py)**      Level: Easy
+      
+
+1. 使用切片（Slice）直接返回从后至前排列的字符串。
+
+
+---
