@@ -92,7 +92,7 @@
 
 
 ---
-**8. [Defanging_an_IP_Address.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Defanging_an_IP_Address.py)**      Level: Easy
+**9. [Defanging_an_IP_Address.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Defanging_an_IP_Address.py)**      Level: Easy
       
 
 1. 使用split()方法将字符串用 "." 隔开，遍历得到的字符串列表，使用字符串加法将字符串与 "[.]" 相连。
