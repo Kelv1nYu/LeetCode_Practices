@@ -6,6 +6,10 @@ some problems and answers about leetCode
 
 **ReviewPage.md**: 所有题目的总结和归纳（不断完善中）
 
+---
+
+Python Algorithm
+
 | Squence | Problem       | Level  | Language  | Tags |
 |:-------:|:--------------|:------:|:---------:|:----:|
 |0|[Two_Sum](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Two_Sum.md)|Easy|Python3|[List,Dictionary]|
@@ -18,4 +22,10 @@ some problems and answers about leetCode
 |7|[Reverse_String](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_String.md)|Easy|Python3|[String,Slice]|
 |8|[Reverse_Words_in_a_String_III](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_Words_in_a_String_III.md)|Easy|Python3|[String,Slice]|
 |9|[Defanging_an_IP_Address](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Defanging_an_IP_Address.md)|Easy|Python3|[String,Slice]|
-|10|[Combine Two Tables](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Combine_Two_Tables.md)|Easy|Sql|[Join]|
+
+---
+
+Sql
+| Squence | Problem       | Level  | Language  | Tags |
+|:-------:|:--------------|:------:|:---------:|:----:|
+|0|[Combine_Two_Tables](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Combine_Two_Tables.md)|Easy|Sql|[Join]|
