@@ -26,6 +26,7 @@ Python Algorithm
 ---
 
 Sql
+
 | Squence | Problem       | Level  | Language  | Tags |
 |:-------:|:--------------|:------:|:---------:|:----:|
 |0|[Combine_Two_Tables](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Combine_Two_Tables.md)|Easy|Sql|[Join]|
