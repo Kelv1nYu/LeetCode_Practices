@@ -32,7 +32,7 @@ Sql
 |175|[Combine_Two_Tables](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Combine_Two_Tables.md)|Easy|Sql|[Join]|
 |176|[Second_Highest_Salary](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Second_Highest_Salary.md)|Easy|Sql|[]|
 |177|[Nth_Highest_Salary](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Nth_Highest_Salary.md)|Easy|Sql|[]|
-|178|[Rank_Scores](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Rank_Scores.md)|Easy|Sql|[Join]|
+|178|[Rank_Scores](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Rank_Scores.md)|Easy|Sql|[]|
 |180|[Consecutive_Numbers](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Consecutive_Numbers.md)|Easy|Sql|[]|
 |181|[Employees_Earning_More_Than_Their_Managers](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Employees_Earning_More_Than_Their_Managers.md)|Easy|Sql|[]|
 |182|[Duplicate_Emails](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Duplicate_Emails.md)|Easy|Sql|[]|
