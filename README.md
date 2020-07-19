@@ -12,16 +12,19 @@ Python Algorithm
 
 | Squence | Problem       | Level  | Language  | Tags |
 |:-------:|:--------------|:------:|:---------:|:----:|
-|0|[Two_Sum](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Two_Sum.md)|Easy|Python3|[List,Dictionary]|
-|1|[Jewels_and_Stones](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Jewels_and_Stones.md)|Easy|Python3|[String]|
-|2|[Hamming_Distance](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Hamming_Distance.md)|Easy|Python3|[String,binary]|
-|3|[Judge_Route_Circle](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Judge_Route_Circle.md)|Easy|Python3|[String]|
-|4|[Self_Dividing_Numbers](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Self_Dividing_Numbers.md)|Easy|Python3|[Int,String,List]|
-|5|[Array_Partition_I](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Array_Partition_I.md)|Easy|Python3|[List]|
-|6|[Number_Complement](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Number_Complement.md)|Easy|Python3|[Bit,Binary]|
-|7|[Reverse_String](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_String.md)|Easy|Python3|[String,Slice]|
-|8|[Reverse_Words_in_a_String_III](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_Words_in_a_String_III.md)|Easy|Python3|[String,Slice]|
-|9|[Defanging_an_IP_Address](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Defanging_an_IP_Address.md)|Easy|Python3|[String,Slice]|
+|1|[Two_Sum](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Two_Sum.md)|Easy|Python3|[Array]|
+|771|[Jewels_and_Stones](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Jewels_and_Stones.md)|Easy|Python3|[HashTable]|
+|461|[Hamming_Distance](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Hamming_Distance.md)|Easy|Python3|[Bit Manipulation]|
+|657|[Robot_Return_to_Origin](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Judge_Route_Circle.md)|Easy|Python3|[]|
+|728|[Self_Dividing_Numbers](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Self_Dividing_Numbers.md)|Easy|Python3|[]|
+|561|[Array_Partition_I](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Array_Partition_I.md)|Easy|Python3|[]|
+|476|[Number_Complement](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Number_Complement.md)|Easy|Python3|[]|
+|344|[Reverse_String](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_String.md)|Easy|Python3|[]|
+|557|[Reverse_Words_in_a_String_III](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_Words_in_a_String_III.md)|Easy|Python3|[]|
+|1108|[Defanging_an_IP_Address](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Defanging_an_IP_Address.md)|Easy|Python3|[]|
+|485|[Max_Consecutive_Ones](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Max_Consecutive_Ones.md)|Easy|Python3|[]|
+|1295|[Find_Numbers_with_Even_Number_of_Digits](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Find_Numbers_with_Even_Number_of_Digits.md)|Easy|Python3|[]|
+|977|[Squares_of_a_Sorted_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Squares_of_a_Sorted_Array.md)|Easy|Python3|[]|
 
 ---
 
