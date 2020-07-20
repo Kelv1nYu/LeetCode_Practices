@@ -49,8 +49,8 @@ Python Algorithm
 |67|[Add_Binary](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Add_Binary.md)|Easy|Python3|[String]|
 |28|[Implement_strStr()](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Implement_strStr.md)|Easy|Python3|[String]|
 |14|[Longest_Common_Prefix](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Longest_Common_Prefix.md)|Easy|Python3|[String]|
-
-
+|167|[Two_Sum_II - Input_array_is_sorted](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Two_Sum_II_Input_array_is_sorted.md)|Easy|Python3|[Array]|
+|209|[Minimum_Size_Subarray_Sum](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Minimum_Size_Subarray_Sum.md)|Medium|Python3|[Array]|
 
 
 
