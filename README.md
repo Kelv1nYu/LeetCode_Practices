@@ -19,7 +19,7 @@ Python Algorithm
 |728|[Self_Dividing_Numbers](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Self_Dividing_Numbers.md)|Easy|Python3|[]|
 |561|[Array_Partition_I](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Array_Partition_I.md)|Easy|Python3|[]|
 |476|[Number_Complement](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Number_Complement.md)|Easy|Python3|[]|
-|344|[Reverse_String](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_String.md)|Easy|Python3|[]|
+|344|[Reverse_String](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_String.md)|Easy|Python3|[String]|
 |557|[Reverse_Words_in_a_String_III](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_Words_in_a_String_III.md)|Easy|Python3|[]|
 |1108|[Defanging_an_IP_Address](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Defanging_an_IP_Address.md)|Easy|Python3|[]|
 |485|[Max_Consecutive_Ones](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Max_Consecutive_Ones.md)|Easy|Python3|[Array]|
@@ -39,6 +39,20 @@ Python Algorithm
 |1051|[Height_Checker](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Height_Checker.md)|Easy|Python3|[Array]|
 |414|[Third_Maximum_Number](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Third_Maximum_Number.md)|Easy|Python3|[Array]|
 |448|[Find_All_Numbers_Disappeared_in_an_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Find_All_Numbers_Disappeared_in_an_Array.md)|Easy|Python3|[Array]|
+|724|[[Find_Pivot_Index](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Find_Pivot_Index.md)|Easy|Python3|[Array]|
+|747|[Largest_Number_At_Least_Twice_of_Others](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Largest_Number_At_Least_Twice_of_Others.md)|Easy|Python3|[Array]|
+|66|[Plus_One](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Plus_One.md)|Easy|Python3|[Array]|
+|498|[Diagonal_Traverse](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Diagonal_Traverse.md)|Medium|Python3|[Matrix]|
+|54|[Spiral_Matrix](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Spiral_Matrix.md)|Medium|Python3|[Matrix]|
+|118|[Pascal's_Triangle](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Pascals_Triangle.md)|Easy|Python3|[Matrix]|
+|119|[Pascal's_Triangle_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Pascals_Triangle_II.md)|Easy|Python3|[Matrix]|
+|67|[Add_Binary](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Add_Binary.md)|Easy|Python3|[String]|
+|28|[Implement_strStr()](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Implement_strStr.md)|Easy|Python3|[String]|
+|14|[Longest_Common_Prefix](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Longest_Common_Prefix.md)|Easy|Python3|[String]|
+
+
+
+
 
 
 
