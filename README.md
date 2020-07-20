@@ -22,9 +22,25 @@ Python Algorithm
 |344|[Reverse_String](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_String.md)|Easy|Python3|[]|
 |557|[Reverse_Words_in_a_String_III](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_Words_in_a_String_III.md)|Easy|Python3|[]|
 |1108|[Defanging_an_IP_Address](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Defanging_an_IP_Address.md)|Easy|Python3|[]|
-|485|[Max_Consecutive_Ones](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Max_Consecutive_Ones.md)|Easy|Python3|[]|
-|1295|[Find_Numbers_with_Even_Number_of_Digits](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Find_Numbers_with_Even_Number_of_Digits.md)|Easy|Python3|[]|
-|977|[Squares_of_a_Sorted_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Squares_of_a_Sorted_Array.md)|Easy|Python3|[]|
+|485|[Max_Consecutive_Ones](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Max_Consecutive_Ones.md)|Easy|Python3|[Array]|
+|487|[Max_Consecutive_Ones_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Max_Consecutive_Ones_II.md)|Medium|Python3|[Array]|
+|1295|[Find_Numbers_with_Even_Number_of_Digits](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Find_Numbers_with_Even_Number_of_Digits.md)|Easy|Python3|[Array]|
+|977|[Squares_of_a_Sorted_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Squares_of_a_Sorted_Array.md)|Easy|Python3|[Array]|
+|1089|[Duplicate_Zeros](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Duplicate_Zeros.md)|Easy|Python3|[Array]|
+|88|[Merge_Sorted_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Merge_Sorted_Array.md)|Easy|Python3|[Array]|
+|27|[Remove_Element](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Remove_Element.md)|Easy|Python3|[Array]|
+|26|[Remove_Duplicates_from_Sorted_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Remove_Duplicates_from_Sorted_Array.md)|Easy|Python3|[Array]|
+|1346|[Check_If_N_and_Its_Double_Exist](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Check_If_N_and_Its_Double_Exist.md)|Easy|Python3|[Array]|
+|941|[Valid_Mountain_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Valid_Mountain_Array.md)|Easy|Python3|[Array]|
+|1299|[Replace_Elements_with_Greatest_Element_on_Right_Side](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Replace_Elements_with_Greatest_Element_on_Right_Side.md)|Easy|Python3|[Array]|
+|283|[Move_Zeroes](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Move_Zeroes.md)|Easy|Python3|[Array]|
+|905|[Sort_Array_By_Parity](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Sort_Array_By_Parity.md)|Easy|Python3|[Array]|
+|977|[Squares_of_a_Sorted_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Squares_of_a_Sorted_Array.md)|Easy|Python3|[Array]|
+|1051|[Height_Checker](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Height_Checker.md)|Easy|Python3|[Array]|
+|414|[Third_Maximum_Number](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Third_Maximum_Number.md)|Easy|Python3|[Array]|
+|448|[Find_All_Numbers_Disappeared_in_an_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Find_All_Numbers_Disappeared_in_an_Array.md)|Easy|Python3|[Array]|
+
+
 
 ---
 
