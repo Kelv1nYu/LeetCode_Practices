@@ -20,8 +20,6 @@ Output: 1->2->3
 
 [Remove_Duplicates_from_Sorted_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Remove_Duplicates_from_Sorted_Array.py)
 
-
-
 #### Go to review
 
 [Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/ReviewPage.md)
