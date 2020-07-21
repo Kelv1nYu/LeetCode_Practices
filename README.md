@@ -69,12 +69,14 @@ Python Algorithm
 |708|[Insert_into_a_Cyclic_Sorted_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Insert_into_a_Cyclic_Sorted_List.md)|Medium|Python3|[Linked List]|
 |138|[Copy_List_with_Random_Pointer](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Copy_List_with_Random_Pointer.md)|Medium|Python3|[Linked List]|
 |61|[Rotate_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Rotate_List.md)|Medium|Python3|[Linked List]|
-
-
-
-
-
-
+|24|[Swap_Nodes_in_Pairs](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Swap_Nodes_in_Pairs.md)|Medium|Python3|[Linked List]|
+|700|[Search_in_a_Binary_Search_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Search_in_a_Binary_Search_Tree.md)|Easy|Python3|[Linked List]|
+|509|[Fibonacci_Number](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Fibonacci_Number.md)|Easy|Python3|[Linked List]|
+|70|[Climbing_Stairs](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Climbing_Stairs.md)|Easy|Python3|[Linked List]
+|104|[Maximum_Depth_of_Binary_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Maximum_Depth_of_Binary_Tree.md)|Easy|Python3|[Linked List]
+|50|[Pow(x, n)](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Pow_x_n.md)|Medium|Python3|[Linked List]
+|779|[K-th_Symbol_in_Grammar](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/K_th_Symbol_in_Grammar.md)|Medium|Python3|[Linked List]
+|95|[Unique_Binary_Search_Trees_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Unique_Binary_Search_Trees_II.md)|Medium|Python3|[Linked List]
 
 
 ---
