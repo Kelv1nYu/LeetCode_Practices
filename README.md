@@ -54,6 +54,24 @@ Python Algorithm
 |189|[Rotate_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Rotate_Array.md)|Easy|Python3|[Array]|
 |151|[Reverse_Words_in_a_String](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_Words_in_a_String.md)|Easy|Python3|[Array]|
 |557|[Reverse_Words_in_a_String_III](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_Words_in_a_String_III.md)|Easy|Python3|[Array]|
+|707|[Design_Linked_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Design_Linked_List.md)|Medium|Python3|[Linked List]|
+|141|[Linked_List_Cycle](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Linked_List_Cycle.md)|Easy|Python3|[Linked List]|
+|142|[Linked_List_Cycle_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Linked_List_Cycle_II.md)|Medium|Python3|[Linked List]|
+|160|[Intersection_of_Two_Linked_Lists](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Intersection_of_Two_Linked_Lists.md)|Easy|Python3|[Linked List]|
+|19|[Remove_Nth_Node_From_End_of_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Remove_Nth_Node_From_End_of_List.md)|Medium|Python3|[Linked List]|
+|206|[Reverse_Linked_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_Linked_List.md)|Easy|Python3|[Linked List]|
+|203|[Remove_Linked_List_Elements](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Remove_Linked_List_Elements.md)|Easy|Python3|[Linked List]|
+|328|[Odd_Even_Linked_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Odd_Even_Linked_List.md)|Medium|Python3|[Linked List]|
+|234|[Palindrome_Linked_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Palindrome_Linked_List.md)|Easy|Python3|[Linked List]|
+|21|[Merge_Two_Sorted_Lists](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Merge_Two_Sorted_Lists.md)|Easy|Python3|[Linked List]|
+|2|[Add_Two_Numbers](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Add_Two_Numbers.md)|Medium|Python3|[Linked List]|
+|430|[Flatten_a_Multilevel_Doubly_Linked_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Flatten_a_Multilevel_Doubly_Linked_List.md)|Medium|Python3|[Linked List]|
+|708|[Insert_into_a_Cyclic_Sorted_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Insert_into_a_Cyclic_Sorted_List.md)|Medium|Python3|[Linked List]|
+|138|[Copy_List_with_Random_Pointer](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Copy_List_with_Random_Pointer.md)|Medium|Python3|[Linked List]|
+|61|[Rotate_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Rotate_List.md)|Medium|Python3|[Linked List]|
+
+
+
 
 
 
