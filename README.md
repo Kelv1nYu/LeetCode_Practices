@@ -69,14 +69,38 @@ Python Algorithm
 |708|[Insert_into_a_Cyclic_Sorted_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Insert_into_a_Cyclic_Sorted_List.md)|Medium|Python3|[Linked List]|
 |138|[Copy_List_with_Random_Pointer](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Copy_List_with_Random_Pointer.md)|Medium|Python3|[Linked List]|
 |61|[Rotate_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Rotate_List.md)|Medium|Python3|[Linked List]|
-|24|[Swap_Nodes_in_Pairs](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Swap_Nodes_in_Pairs.md)|Medium|Python3|[Linked List]|
-|700|[Search_in_a_Binary_Search_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Search_in_a_Binary_Search_Tree.md)|Easy|Python3|[Linked List]|
-|509|[Fibonacci_Number](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Fibonacci_Number.md)|Easy|Python3|[Linked List]|
-|70|[Climbing_Stairs](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Climbing_Stairs.md)|Easy|Python3|[Linked List]
-|104|[Maximum_Depth_of_Binary_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Maximum_Depth_of_Binary_Tree.md)|Easy|Python3|[Linked List]
-|50|[Pow(x, n)](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Pow_x_n.md)|Medium|Python3|[Linked List]
-|779|[K-th_Symbol_in_Grammar](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/K_th_Symbol_in_Grammar.md)|Medium|Python3|[Linked List]
-|95|[Unique_Binary_Search_Trees_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Unique_Binary_Search_Trees_II.md)|Medium|Python3|[Linked List]
+|24|[Swap_Nodes_in_Pairs](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Swap_Nodes_in_Pairs.md)|Medium|Python3|[Recursion]|
+|700|[Search_in_a_Binary_Search_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Search_in_a_Binary_Search_Tree.md)|Easy|Python3|[Recursion]|
+|509|[Fibonacci_Number](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Fibonacci_Number.md)|Easy|Python3|[Recursion]|
+|70|[Climbing_Stairs](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Climbing_Stairs.md)|Easy|Python3|[Recursion]
+|104|[Maximum_Depth_of_Binary_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Maximum_Depth_of_Binary_Tree.md)|Easy|Python3|[Recursion]
+|50|[Pow(x, n)](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Pow_x_n.md)|Medium|Python3|[Recursion]
+|779|[K-th_Symbol_in_Grammar](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/K_th_Symbol_in_Grammar.md)|Medium|Python3|[Recursion]
+|95|[Unique_Binary_Search_Trees_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Unique_Binary_Search_Trees_II.md)|Medium|Python3|[Recursion]
+|441|[Arranging_Coins](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Arranging_Coins.md)|Easy|Python3|[Binary Search, Math]
+|107|[Binary_Tree_Level_Order_Traversal_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Binary_Tree_Level_Order_Traversal_II.md)|Easy|Python3|[Tree]
+|957|[Prison_Cells_After_N_Days](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Prison_Cells_After_N_Days.md)|Medium|Python3|[Hash Table]
+|264|[Ugly_Number_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Ugly_Number_II.md)|Medium|Python3|[Math]
+|463|[Island_Perimeter](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Island_Perimeter.md)|Easy|Python3|[Hash Table]
+|15|[3Sum](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/3Sum.md)|Medium|Python3|[Array]
+|662|[Maximum_Width_of_Binary_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Maximum_Width_of_Binary_Tree.md)|Medium|Python3|[Tree]
+|78|[Subsets](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Subsets.md)|Medium|Python3|[Array]
+|190|[Reverse_Bits](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_Bits.md)|Easy|Python3|[Bit Manipulation]
+|100|[Same_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Same_Tree.md)|Easy|Python3|[Tree]
+|1344|[Angle_Between_Hands_of_a_Clock](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Angle_Between_Hands_of_a_Clock.md)|Medium|Python3|[Math]
+|151|[Reverse_Words_in_a_String](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_Words_in_a_String.md)|Medium|Python3|[String]
+|347|[Top_K_Frequent_Elements](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Top_K_Frequent_Elements.md)|Medium|Python3|[Hash Table]
+|210|[Course_Schedule_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Course_Schedule_II.md)|Medium|Python3|[Depth-first Search, Breadth-first Search]
+|79|[Word_Search](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Word_Search.md)|Medium|Python3|[Tree]
+|103|[Binary_Tree_Zigzag_Level_Order_Traversal](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Binary_Tree_Zigzag_Level_Order_Traversal.md)|Medium|Python3|[Tree]
+|260|[Single_Number_III](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Single_Number_III.md)|Medium|Python3|[Bit Manipulation]
+|797|[All_Paths_From_Source_to_Target](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/All_Paths_From_Source_to_Target.md)|Medium|Python3|[]
+|154|[Find_Minimum_in_Rotated_Sorted_Array_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Find_Minimum_in_Rotated_Sorted_Array_II.md)|Hard|Python3|[Array]
+|258|[Add_Digits](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Add_Digits.md)|Easy|Python3|[Math]
+|106|[Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.md)|Medium|Python3|[Tree]
+
+
+
 
 
 ---
