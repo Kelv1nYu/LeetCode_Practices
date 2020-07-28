@@ -99,3 +99,93 @@
 
 
 ---
+
+
+
+
+| Squence | Problem       | Level  | Language  | Tags |
+|:-------:|:--------------|:------:|:---------:|:----:|
+|1|[Two_Sum](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Two_Sum.md)|Easy|Python3|[Array]|
+|2|[Add_Two_Numbers](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Add_Two_Numbers.md)|Medium|Python3|[Linked List]|
+|14|[Longest_Common_Prefix](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Longest_Common_Prefix.md)|Easy|Python3|[String]|
+|15|[3Sum](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/3Sum.md)|Medium|Python3|[Array]
+|19|[Remove_Nth_Node_From_End_of_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Remove_Nth_Node_From_End_of_List.md)|Medium|Python3|[Linked List]|
+|21|[Merge_Two_Sorted_Lists](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Merge_Two_Sorted_Lists.md)|Easy|Python3|[Linked List]|
+|24|[Swap_Nodes_in_Pairs](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Swap_Nodes_in_Pairs.md)|Medium|Python3|[Recursion]|
+|26|[Remove_Duplicates_from_Sorted_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Remove_Duplicates_from_Sorted_Array.md)|Easy|Python3|[Array]|
+|27|[Remove_Element](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Remove_Element.md)|Easy|Python3|[Array]|
+|28|[Implement_strStr()](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Implement_strStr.md)|Easy|Python3|[String]|
+|50|[Pow(x, n)](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Pow_x_n.md)|Medium|Python3|[Recursion]
+|54|[Spiral_Matrix](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Spiral_Matrix.md)|Medium|Python3|[Matrix]|
+|61|[Rotate_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Rotate_List.md)|Medium|Python3|[Linked List]|
+|66|[Plus_One](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Plus_One.md)|Easy|Python3|[Array]|
+|67|[Add_Binary](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Add_Binary.md)|Easy|Python3|[String]|
+|70|[Climbing_Stairs](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Climbing_Stairs.md)|Easy|Python3|[Recursion]
+|78|[Subsets](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Subsets.md)|Medium|Python3|[Array]
+|79|[Word_Search](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Word_Search.md)|Medium|Python3|[Tree]
+|88|[Merge_Sorted_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Merge_Sorted_Array.md)|Easy|Python3|[Array]|
+|95|[Unique_Binary_Search_Trees_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Unique_Binary_Search_Trees_II.md)|Medium|Python3|[Recursion]
+|100|[Same_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Same_Tree.md)|Easy|Python3|[Tree]
+|103|[Binary_Tree_Zigzag_Level_Order_Traversal](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Binary_Tree_Zigzag_Level_Order_Traversal.md)|Medium|Python3|[Tree]
+|104|[Maximum_Depth_of_Binary_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Maximum_Depth_of_Binary_Tree.md)|Easy|Python3|[Recursion]
+|106|[Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.md)|Medium|Python3|[Tree]
+|107|[Binary_Tree_Level_Order_Traversal_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Binary_Tree_Level_Order_Traversal_II.md)|Easy|Python3|[Tree]
+|118|[Pascal's_Triangle](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Pascals_Triangle.md)|Easy|Python3|[Matrix]|
+|119|[Pascal's_Triangle_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Pascals_Triangle_II.md)|Easy|Python3|[Matrix]|
+|138|[Copy_List_with_Random_Pointer](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Copy_List_with_Random_Pointer.md)|Medium|Python3|[Linked List]|
+|141|[Linked_List_Cycle](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Linked_List_Cycle.md)|Easy|Python3|[Linked List]|
+|142|[Linked_List_Cycle_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Linked_List_Cycle_II.md)|Medium|Python3|[Linked List]|
+|151|[Reverse_Words_in_a_String](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_Words_in_a_String.md)|Easy|Python3|[Array]|
+|154|[Find_Minimum_in_Rotated_Sorted_Array_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Find_Minimum_in_Rotated_Sorted_Array_II.md)|Hard|Python3|[Array]
+|160|[Intersection_of_Two_Linked_Lists](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Intersection_of_Two_Linked_Lists.md)|Easy|Python3|[Linked List]|
+|167|[Two_Sum_II - Input_array_is_sorted](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Two_Sum_II_Input_array_is_sorted.md)|Easy|Python3|[Array]|
+|189|[Rotate_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Rotate_Array.md)|Easy|Python3|[Array]|
+|190|[Reverse_Bits](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_Bits.md)|Easy|Python3|[Bit Manipulation]
+|203|[Remove_Linked_List_Elements](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Remove_Linked_List_Elements.md)|Easy|Python3|[Linked List]|
+|206|[Reverse_Linked_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_Linked_List.md)|Easy|Python3|[Linked List]|
+|209|[Minimum_Size_Subarray_Sum](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Minimum_Size_Subarray_Sum.md)|Medium|Python3|[Array]|
+|210|[Course_Schedule_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Course_Schedule_II.md)|Medium|Python3|[Depth-first Search, Breadth-first Search]
+|234|[Palindrome_Linked_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Palindrome_Linked_List.md)|Easy|Python3|[Linked List]|
+|258|[Add_Digits](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Add_Digits.md)|Easy|Python3|[Math]
+|260|[Single_Number_III](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Single_Number_III.md)|Medium|Python3|[Bit Manipulation]
+|264|[Ugly_Number_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Ugly_Number_II.md)|Medium|Python3|[Math]
+|283|[Move_Zeroes](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Move_Zeroes.md)|Easy|Python3|[Array]|
+|328|[Odd_Even_Linked_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Odd_Even_Linked_List.md)|Medium|Python3|[Linked List]|
+|344|[Reverse_String](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_String.md)|Easy|Python3|[String]|
+|347|[Top_K_Frequent_Elements](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Top_K_Frequent_Elements.md)|Medium|Python3|[Hash Table]
+|414|[Third_Maximum_Number](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Third_Maximum_Number.md)|Easy|Python3|[Array]|
+|430|[Flatten_a_Multilevel_Doubly_Linked_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Flatten_a_Multilevel_Doubly_Linked_List.md)|Medium|Python3|[Linked List]|
+|441|[Arranging_Coins](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Arranging_Coins.md)|Easy|Python3|[Binary Search, Math]
+|448|[Find_All_Numbers_Disappeared_in_an_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Find_All_Numbers_Disappeared_in_an_Array.md)|Easy|Python3|[Array]|
+|461|[Hamming_Distance](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Hamming_Distance.md)|Easy|Python3|[Bit Manipulation]|
+|463|[Island_Perimeter](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Island_Perimeter.md)|Easy|Python3|[Hash Table]
+|476|[Number_Complement](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Number_Complement.md)|Easy|Python3|[]|
+|485|[Max_Consecutive_Ones](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Max_Consecutive_Ones.md)|Easy|Python3|[Array]|
+|487|[Max_Consecutive_Ones_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Max_Consecutive_Ones_II.md)|Medium|Python3|[Array]|
+|498|[Diagonal_Traverse](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Diagonal_Traverse.md)|Medium|Python3|[Matrix]|
+|509|[Fibonacci_Number](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Fibonacci_Number.md)|Easy|Python3|[Recursion]|
+|557|[Reverse_Words_in_a_String_III](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_Words_in_a_String_III.md)|Easy|Python3|[Array]|
+|561|[Array_Partition_I](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Array_Partition_I.md)|Easy|Python3|[]|
+|621|[Task_Scheduler](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Task_Scheduler.md)|Medium|Python3|[Math]
+|657|[Robot_Return_to_Origin](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Judge_Route_Circle.md)|Easy|Python3|[]|
+|662|[Maximum_Width_of_Binary_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Maximum_Width_of_Binary_Tree.md)|Medium|Python3|[Tree]
+|700|[Search_in_a_Binary_Search_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Search_in_a_Binary_Search_Tree.md)|Easy|Python3|[Recursion]|
+|707|[Design_Linked_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Design_Linked_List.md)|Medium|Python3|[Linked List]|
+|708|[Insert_into_a_Cyclic_Sorted_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Insert_into_a_Cyclic_Sorted_List.md)|Medium|Python3|[Linked List]|
+|724|[[Find_Pivot_Index](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Find_Pivot_Index.md)|Easy|Python3|[Array]|
+|728|[Self_Dividing_Numbers](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Self_Dividing_Numbers.md)|Easy|Python3|[]|
+|747|[Largest_Number_At_Least_Twice_of_Others](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Largest_Number_At_Least_Twice_of_Others.md)|Easy|Python3|[Array]|
+|771|[Jewels_and_Stones](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Jewels_and_Stones.md)|Easy|Python3|[HashTable]|
+|779|[K-th_Symbol_in_Grammar](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/K_th_Symbol_in_Grammar.md)|Medium|Python3|[Recursion]
+|797|[All_Paths_From_Source_to_Target](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/All_Paths_From_Source_to_Target.md)|Medium|Python3|[]
+|905|[Sort_Array_By_Parity](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Sort_Array_By_Parity.md)|Easy|Python3|[Array]|
+|941|[Valid_Mountain_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Valid_Mountain_Array.md)|Easy|Python3|[Array]|
+|957|[Prison_Cells_After_N_Days](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Prison_Cells_After_N_Days.md)|Medium|Python3|[Hash Table]
+|977|[Squares_of_a_Sorted_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Squares_of_a_Sorted_Array.md)|Easy|Python3|[Array]|
+|1051|[Height_Checker](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Height_Checker.md)|Easy|Python3|[Array]|
+|1089|[Duplicate_Zeros](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Duplicate_Zeros.md)|Easy|Python3|[Array]|
+|1108|[Defanging_an_IP_Address](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Defanging_an_IP_Address.md)|Easy|Python3|[]|
+|1295|[Find_Numbers_with_Even_Number_of_Digits](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Find_Numbers_with_Even_Number_of_Digits.md)|Easy|Python3|[Array]|
+|1299|[Replace_Elements_with_Greatest_Element_on_Right_Side](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Replace_Elements_with_Greatest_Element_on_Right_Side.md)|Easy|Python3|[Array]|
+|1344|[Angle_Between_Hands_of_a_Clock](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Angle_Between_Hands_of_a_Clock.md)|Medium|Python3|[Math]
+|1346|[Check_If_N_and_Its_Double_Exist](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Check_If_N_and_Its_Double_Exist.md)|Easy|Python3|[Array]|
