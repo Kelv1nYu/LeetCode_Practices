@@ -98,7 +98,7 @@ Python Algorithm
 |154|[Find_Minimum_in_Rotated_Sorted_Array_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Find_Minimum_in_Rotated_Sorted_Array_II.md)|Hard|Python3|[Array]
 |258|[Add_Digits](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Add_Digits.md)|Easy|Python3|[Math]
 |106|[Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.md)|Medium|Python3|[Tree]
-
+|621|[Task_Scheduler](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Task_Scheduler.md)|Medium|Python3|[Math]
 
 
 
