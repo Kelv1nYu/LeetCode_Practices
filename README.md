@@ -41,6 +41,7 @@ Python Algorithm
 |118|[Pascal's_Triangle](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Pascals_Triangle.md)|Easy|Python3|[Matrix]|
 |119|[Pascal's_Triangle_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Pascals_Triangle_II.md)|Easy|Python3|[Matrix]|
 |138|[Copy_List_with_Random_Pointer](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Copy_List_with_Random_Pointer.md)|Medium|Python3|[Linked List]|
+|140|[Word_Break_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Word_Break_II.md)|Hard|Python3|[Dynamic Programming]|
 |141|[Linked_List_Cycle](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Linked_List_Cycle.md)|Easy|Python3|[Linked List]|
 |142|[Linked_List_Cycle_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Linked_List_Cycle_II.md)|Medium|Python3|[Linked List]|
 |151|[Reverse_Words_in_a_String](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_Words_in_a_String.md)|Easy|Python3|[Array]|
@@ -58,6 +59,7 @@ Python Algorithm
 |260|[Single_Number_III](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Single_Number_III.md)|Medium|Python3|[Bit Manipulation]
 |264|[Ugly_Number_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Ugly_Number_II.md)|Medium|Python3|[Math]
 |283|[Move_Zeroes](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Move_Zeroes.md)|Easy|Python3|[Array]|
+|309|[Best_Time_to_Buy_and_Sell_Stock_with_Cooldown](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.md)|Medium|Python3|[Dynamic Programming]|
 |328|[Odd_Even_Linked_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Odd_Even_Linked_List.md)|Medium|Python3|[Linked List]|
 |344|[Reverse_String](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_String.md)|Easy|Python3|[String]|
 |347|[Top_K_Frequent_Elements](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Top_K_Frequent_Elements.md)|Medium|Python3|[Hash Table]
