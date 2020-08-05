@@ -28,7 +28,7 @@ Python Algorithm
 |61|[Rotate_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Rotate_List.md)|Medium|Python3|[Linked List]|
 |66|[Plus_One](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Plus_One.md)|Easy|Python3|[Array]|
 |67|[Add_Binary](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Add_Binary.md)|Easy|Python3|[String]|
-|70|[Climbing_Stairs](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Climbing_Stairs.md)|Easy|Python3|[Recursion]
+|70|[ _Stairs](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Climbing_Stairs.md)|Easy|Python3|[Recursion]
 |78|[Subsets](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Subsets.md)|Medium|Python3|[Array]
 |79|[Word_Search](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Word_Search.md)|Medium|Python3|[Tree]
 |88|[Merge_Sorted_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Merge_Sorted_Array.md)|Easy|Python3|[Array]|
