@@ -2,7 +2,7 @@
 
 #### Table: Person
 
-
+```
 | Column Name | Type    |
 |:---|:---|
 | PersonId    | int     |
@@ -10,9 +10,11 @@
 | LastName    | varchar |
 
 PersonId is the primary key column for this table.
+```
 
 #### Table: Address
 
+```
 | Column Name | Type    |
 |:---|:---|
 | AddressId   | int     |
@@ -21,8 +23,17 @@ PersonId is the primary key column for this table.
 | State       | varchar |
 
 AddressId is the primary key column for this table.
- 
+``` 
 
-Write a SQL query for a report that provides the following information for each person in the Person table, regardless if there is an address for each of those people:
+**Write a SQL query for a report that provides the following information for each person in the Person table, regardless if there is an address for each of those people.**
 
-`FirstName, LastName, City, State`
+<pre>FirstName, LastName, City, State</pre>
+
+
+####  Go to answer
+
+[Combine_Two_Tables.sql](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Combine_Two_Tables.sql)
+
+#### Go to review
+
+[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Combine_Two_Tables.md)
