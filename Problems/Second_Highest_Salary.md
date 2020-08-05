@@ -1,6 +1,6 @@
 ### Second Highest Salary
 
-Write a SQL query to get the second highest salary from the `Employee` table.
+**Write a SQL query to get the second highest salary from the `Employee` table.**
 
 ```
 +----+--------+
@@ -29,4 +29,4 @@ For example, given the above `Employee` table, the query should return 200 as th
 
 #### Go to review
 
-[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/ReviewPage.md)
+[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Second_Highest_Salary.md)

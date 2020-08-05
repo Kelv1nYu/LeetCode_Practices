@@ -5,7 +5,7 @@
 | Squence | Problem       | Level  | Language  | Tags |
 |:-------:|:--------------|:------:|:---------:|:----:|
 |175|[Combine_Two_Tables](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Combine_Two_Tables.md)|Easy|Sql|[JOIN]|
-|176|[Second_Highest_Salary](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Second_Highest_Salary.md)|Easy|Sql|[]|
+|176|[Second_Highest_Salary](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Second_Highest_Salary.md)|Easy|Sql|[Sub-query, LIMIT]|
 |177|[Nth_Highest_Salary](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Nth_Highest_Salary.md)|Medium|Sql|[]|
 |178|[Rank_Scores](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Rank_Scores.md)|Medium|Sql|[]|
 |180|[Consecutive_Numbers](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Consecutive_Numbers.md)|Medium|Sql|[]|
