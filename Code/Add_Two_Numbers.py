@@ -6,10 +6,16 @@
 
 class Solution:
     def addTwoNumbers(self, l1: ListNode, l2: ListNode) -> ListNode:
+        """
+        :type l1: ListNode
+        :type l2: ListNode
+        :rtype: ListNode
+        """
+
+        # Create a new ListNode as head of returned linked list
         new_list_start = ListNode(0)
         curr = new_list_start
         carry = 0
-        
         
         while l1 or l2 or carry:
             
@@ -21,6 +27,7 @@ class Solution:
             curr.next = ListNode(out)
             curr = curr.next
             
+            # If the two linked lists are inconsistent in length, add the remaining linked lists directly to the end of the linked list to be returned
             l1 = l1.next if l1 is not None else None
             l2 = l2.next if l2 is not None else None
         
