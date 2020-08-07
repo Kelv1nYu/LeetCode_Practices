@@ -19,15 +19,16 @@ class Solution:
         
         while l1 or l2 or carry:
             
+            # Check whether the current node is None, if true, assign it to the variable, otherwise the variable value is 0
             v1 = l1.val if l1 else 0
             v2 = l2.val if l2 else 0
             
+            # The divmod() method takes two numbers and returns a pair of numbers (a tuple) consisting of their quotient and remainder.
             carry, out = divmod(v1 + v2 + carry, 10)
             
             curr.next = ListNode(out)
             curr = curr.next
             
-            # If the two linked lists are inconsistent in length, add the remaining linked lists directly to the end of the linked list to be returned
             l1 = l1.next if l1 is not None else None
             l2 = l2.next if l2 is not None else None
         
