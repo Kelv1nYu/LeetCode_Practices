@@ -29,4 +29,4 @@ All given inputs are in lowercase letters a-z.
 
 #### Go to review
 
-[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Swap_Nodes_in_Pairs.md)
+[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Longest_Common_Prefix.md)
