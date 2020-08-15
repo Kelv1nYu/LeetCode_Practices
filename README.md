@@ -81,7 +81,7 @@ Python Algorithm
 |662|[Maximum_Width_of_Binary_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Maximum_Width_of_Binary_Tree.md)|Medium|Python3|[Tree]
 |700|[Search_in_a_Binary_Search_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Search_in_a_Binary_Search_Tree.md)|Easy|Python3|[Recursion]|
 |707|[Design_Linked_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Design_Linked_List.md)|Medium|Python3|[Linked List]|
-|708|[Insert_into_a_Cyclic_Sorted_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Insert_into_a_Cyclic_Sorted_List.md)|Medium|Python3|[Linked List]|
+|708|[Insert_into_a_Sorted_Circular_Linked_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Insert_into_a_Sorted_Circular_Linked_List.md)|Medium|Python3|[Linked List]|
 |724|[[Find_Pivot_Index](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Find_Pivot_Index.md)|Easy|Python3|[Array]|
 |728|[Self_Dividing_Numbers](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Self_Dividing_Numbers.md)|Easy|Python3|[]|
 |747|[Largest_Number_At_Least_Twice_of_Others](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Largest_Number_At_Least_Twice_of_Others.md)|Easy|Python3|[Array]|

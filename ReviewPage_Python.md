@@ -160,8 +160,8 @@
 |662|[Maximum_Width_of_Binary_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Maximum_Width_of_Binary_Tree.md)|Medium|Python3|[Tree]
 |700|[Search_in_a_Binary_Search_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Search_in_a_Binary_Search_Tree.md)|Easy|Python3|[Recursion]|
 |707|[Design_Linked_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Design_Linked_List.md)|Medium|Python3|[Linked List]|
-|708|[Insert_into_a_Cyclic_Sorted_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Insert_into_a_Cyclic_Sorted_List.md)|Medium|Python3|[Linked List]|
-|724|[[Find_Pivot_Index](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Find_Pivot_Index.md)|Easy|Python3|[Array]|
+|708|[Insert_into_a_Sorted_Circular_Linked_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Insert_into_a_Sorted_Circular_Linked_List.md)|Medium|Python3|[Linked List]|
+|724|[Find_Pivot_Index](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Find_Pivot_Index.md)|Easy|Python3|[Array]|
 |728|[Self_Dividing_Numbers](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Self_Dividing_Numbers.md)|Easy|Python3|[]|
 |747|[Largest_Number_At_Least_Twice_of_Others](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Largest_Number_At_Least_Twice_of_Others.md)|Easy|Python3|[Array]|
 |771|[Jewels_and_Stones](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Jewels_and_Stones.md)|Easy|Python3|[HashTable]|
