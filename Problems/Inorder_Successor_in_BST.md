@@ -24,3 +24,12 @@ Explanation: There is no in-order successor of the current node, so the answer i
 
 * If the given node has no in-order successor in the tree, return null.
 * It's guaranteed that the values of the tree are unique.
+
+
+####  Go to answer
+
+[Inorder_Successor_in_BST.sql](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Inorder_Successor_in_BST.sql)
+
+#### Go to review
+
+[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/ReviewPage.md)
