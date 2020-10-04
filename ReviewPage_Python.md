@@ -162,6 +162,7 @@
 |657|[Robot_Return_to_Origin](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Judge_Route_Circle.md)|Easy|Python3|[]|
 |662|[Maximum_Width_of_Binary_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Maximum_Width_of_Binary_Tree.md)|Medium|Python3|[Tree]
 |700|[Search_in_a_Binary_Search_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Search_in_a_Binary_Search_Tree.md)|Easy|Python3|[Recursion]|
+|701|[Insert_into_a_Binary_Search_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Insert_into_a_Binary_Search_Tree.md)|Medium|Python3|[Tree]|
 |707|[Design_Linked_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Design_Linked_List.md)|Medium|Python3|[Linked List]|
 |708|[Insert_into_a_Sorted_Circular_Linked_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Insert_into_a_Sorted_Circular_Linked_List.md)|Medium|Python3|[Linked List]|
 |724|[Find_Pivot_Index](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Find_Pivot_Index.md)|Easy|Python3|[Array]|
