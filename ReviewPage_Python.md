@@ -149,6 +149,7 @@
 |430|[Flatten_a_Multilevel_Doubly_Linked_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Flatten_a_Multilevel_Doubly_Linked_List.md)|Medium|Python3|[Linked List]|
 |441|[Arranging_Coins](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Arranging_Coins.md)|Easy|Python3|[Binary Search, Math]
 |448|[Find_All_Numbers_Disappeared_in_an_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Find_All_Numbers_Disappeared_in_an_Array.md)|Easy|Python3|[Array]|
+|450|[Delete_Node_in_a_BST](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Delete_Node_in_a_BST.md)|Medium|Python3|[Tree]|
 |461|[Hamming_Distance](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Hamming_Distance.md)|Easy|Python3|[Bit Manipulation]|
 |463|[Island_Perimeter](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Island_Perimeter.md)|Easy|Python3|[Hash Table]
 |476|[Number_Complement](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Number_Complement.md)|Easy|Python3|[]|

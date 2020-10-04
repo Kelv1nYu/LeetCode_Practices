@@ -28,7 +28,7 @@ Explanation: There is no in-order successor of the current node, so the answer i
 
 ####  Go to answer
 
-[Inorder_Successor_in_BST.sql](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Inorder_Successor_in_BST.sql)
+[Inorder_Successor_in_BST.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Inorder_Successor_in_BST.py)
 
 #### Go to review
 

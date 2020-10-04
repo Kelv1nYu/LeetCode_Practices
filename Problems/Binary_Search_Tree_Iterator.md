@@ -27,7 +27,7 @@ iterator.hasNext(); // return false
 
 ####  Go to answer
 
-[Binary_Search_Tree_Iterator.sql](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Binary_Search_Tree_Iterator.sql)
+[Binary_Search_Tree_Iterator.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Binary_Search_Tree_Iterator.py)
 
 #### Go to review
 

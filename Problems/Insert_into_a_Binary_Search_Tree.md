@@ -48,7 +48,7 @@ This tree is also valid:
 
 ####  Go to answer
 
-[Insert_into_a_Binary_Search_Tree.sql](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Insert_into_a_Binary_Search_Tree.sql)
+[Insert_into_a_Binary_Search_Tree.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Insert_into_a_Binary_Search_Tree.py)
 
 #### Go to review
 
