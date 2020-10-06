@@ -136,6 +136,7 @@
 |206|[Reverse_Linked_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Reverse_Linked_List.md)|Easy|Python3|[Linked List]|
 |209|[Minimum_Size_Subarray_Sum](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Minimum_Size_Subarray_Sum.md)|Medium|Python3|[Array]|
 |210|[Course_Schedule_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Course_Schedule_II.md)|Medium|Python3|[Depth-first Search, Breadth-first Search]
+|220|[Contains_Duplicate_III](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Contains_Duplicate_III.md)|Medium|Python3|[Tree]
 |234|[Palindrome_Linked_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Palindrome_Linked_List.md)|Easy|Python3|[Linked List]|
 |235|[Lowest_Common_Ancestor_of_a_Binary_Search_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.md)|Easy|Python3|[Tree]|
 |258|[Add_Digits](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Add_Digits.md)|Easy|Python3|[Math]
