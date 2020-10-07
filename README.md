@@ -39,6 +39,8 @@ Python Algorithm
 |104|[Maximum_Depth_of_Binary_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Maximum_Depth_of_Binary_Tree.md)|Easy|Python3|[Recursion]
 |106|[Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.md)|Medium|Python3|[Tree]
 |107|[Binary_Tree_Level_Order_Traversal_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Binary_Tree_Level_Order_Traversal_II.md)|Easy|Python3|[Tree]
+|108|[Convert_Sorted_Array_to_Binary_Search_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Convert_Sorted_Array_to_Binary_Search_Tree.md)|Easy|Python3|[Tree]
+|110|[Balanced_Binary_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Balanced_Binary_Tree.md)|Easy|Python3|[Tree]
 |118|[Pascal's_Triangle](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Pascals_Triangle.md)|Easy|Python3|[Matrix]|
 |119|[Pascal's_Triangle_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Pascals_Triangle_II.md)|Easy|Python3|[Matrix]|
 |138|[Copy_List_with_Random_Pointer](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Copy_List_with_Random_Pointer.md)|Medium|Python3|[Linked List]|
