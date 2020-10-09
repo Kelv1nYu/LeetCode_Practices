@@ -117,6 +117,7 @@
 |78|[Subsets](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Subsets.md)|Medium|Python3|[Array]
 |79|[Word_Search](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Word_Search.md)|Medium|Python3|[Tree]
 |88|[Merge_Sorted_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Merge_Sorted_Array.md)|Easy|Python3|[Array]|
+|94|[Binary_Tree_Inorder_Traversal](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Binary_Tree_Inorder_Traversal.md)|Medium|Python3|[Tree, Recursion]
 |95|[Unique_Binary_Search_Trees_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Unique_Binary_Search_Trees_II.md)|Medium|Python3|[Recursion]
 |98|[Validate_Binary_Search_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Validate_Binary_Search_Tree.md)|Medium|Python3|[Tree]
 |100|[Same_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Same_Tree.md)|Easy|Python3|[Tree]
