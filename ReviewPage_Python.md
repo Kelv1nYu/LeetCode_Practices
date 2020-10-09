@@ -112,6 +112,7 @@
 |66|[Plus_One](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Plus_One.md)|Easy|Python3|[Array]|
 |67|[Add_Binary](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Add_Binary.md)|Easy|Python3|[String]|
 |70|[Climbing_Stairs](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Climbing_Stairs.md)|Easy|Python3|[Recursion]
+|77|[Combinations](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Combinations.md)|Medium|Python3|[Recursion]
 |78|[Subsets](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Subsets.md)|Medium|Python3|[Array]
 |79|[Word_Search](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Word_Search.md)|Medium|Python3|[Tree]
 |88|[Merge_Sorted_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Merge_Sorted_Array.md)|Easy|Python3|[Array]|
