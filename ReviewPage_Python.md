@@ -178,6 +178,7 @@
 |779|[K-th_Symbol_in_Grammar](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/K_th_Symbol_in_Grammar.md)|Medium|Python3|[Recursion]
 |797|[All_Paths_From_Source_to_Target](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/All_Paths_From_Source_to_Target.md)|Medium|Python3|[]
 |905|[Sort_Array_By_Parity](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Sort_Array_By_Parity.md)|Easy|Python3|[Array]|
+|912|[Sort_an_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Sort_an_Array.md)|Medium|Python3|[Array, Recursion]|
 |941|[Valid_Mountain_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Valid_Mountain_Array.md)|Easy|Python3|[Array]|
 |957|[Prison_Cells_After_N_Days](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Prison_Cells_After_N_Days.md)|Medium|Python3|[Hash Table]
 |977|[Squares_of_a_Sorted_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Squares_of_a_Sorted_Array.md)|Easy|Python3|[Array]|
