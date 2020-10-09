@@ -100,6 +100,7 @@
 |15|[3Sum](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/3Sum.md)|Medium|Python3|[Array]
 |19|[Remove_Nth_Node_From_End_of_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Remove_Nth_Node_From_End_of_List.md)|Medium|Python3|[Linked List]|
 |21|[Merge_Two_Sorted_Lists](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Merge_Two_Sorted_Lists.md)|Easy|Python3|[Linked List]|
+|22|[Generate_Parentheses](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Generate_Parentheses.md)|Medium|Python3|[Recursion]|
 |24|[Swap_Nodes_in_Pairs](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Swap_Nodes_in_Pairs.md)|Medium|Python3|[Recursion]|
 |26|[Remove_Duplicates_from_Sorted_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Remove_Duplicates_from_Sorted_Array.md)|Easy|Python3|[Array]|
 |27|[Remove_Element](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Remove_Element.md)|Easy|Python3|[Array]|
