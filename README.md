@@ -40,6 +40,7 @@ Python Algorithm
 |95|[Unique_Binary_Search_Trees_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Unique_Binary_Search_Trees_II.md)|Medium|Python3|[Recursion]
 |98|[Validate_Binary_Search_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Validate_Binary_Search_Tree.md)|Medium|Python3|[Tree]
 |100|[Same_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Same_Tree.md)|Easy|Python3|[Tree]
+|102|[Binary_Tree_Level_Order_Traversal](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Binary_Tree_Level_Order_Traversal.md)|Medium|Python3|[Tree, Recursion]
 |103|[Binary_Tree_Zigzag_Level_Order_Traversal](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Binary_Tree_Zigzag_Level_Order_Traversal.md)|Medium|Python3|[Tree]
 |104|[Maximum_Depth_of_Binary_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Maximum_Depth_of_Binary_Tree.md)|Easy|Python3|[Recursion]
 |106|[Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.md)|Medium|Python3|[Tree]
