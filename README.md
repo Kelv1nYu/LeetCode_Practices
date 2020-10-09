@@ -24,6 +24,7 @@ Python Algorithm
 |27|[Remove_Element](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Remove_Element.md)|Easy|Python3|[Array]|
 |28|[Implement_strStr()](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Implement_strStr.md)|Easy|Python3|[String]|
 |50|[Pow(x, n)](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Pow_x_n.md)|Medium|Python3|[Recursion]
+|52|[N-Queens_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/N_Queens_II.md)|Hard|Python3|[Recursion]
 |54|[Spiral_Matrix](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Spiral_Matrix.md)|Medium|Python3|[Matrix]|
 |61|[Rotate_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Rotate_List.md)|Medium|Python3|[Linked List]|
 |66|[Plus_One](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Plus_One.md)|Easy|Python3|[Array]|
