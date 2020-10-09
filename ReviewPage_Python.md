@@ -104,6 +104,7 @@
 |26|[Remove_Duplicates_from_Sorted_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Remove_Duplicates_from_Sorted_Array.md)|Easy|Python3|[Array]|
 |27|[Remove_Element](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Remove_Element.md)|Easy|Python3|[Array]|
 |28|[Implement_strStr()](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Implement_strStr.md)|Easy|Python3|[String]|
+|37|[Sudoku_Solver](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Sudoku_Solver.md)|Hard|Python3|[Recursion]|
 |50|[Pow(x, n)](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Pow_x_n.md)|Medium|Python3|[Recursion]
 |52|[N-Queens_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/N_Queens_II.md)|Hard|Python3|[Recursion]
 |54|[Spiral_Matrix](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Spiral_Matrix.md)|Medium|Python3|[Matrix]|
