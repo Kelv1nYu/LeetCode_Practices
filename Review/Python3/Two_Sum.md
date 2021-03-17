@@ -6,3 +6,6 @@
 
 English: 
 * Scan the array in order, for each element, find the "other half" of the number in the map that can combine the given value, and if it exists, return the index of the two numbers directly. Or, store this number in the map, wait for the "other half" of the number to be scanned, and then take it out to return the result.
+
+Time complexity: O(n)
+Space complexity: O(n)
