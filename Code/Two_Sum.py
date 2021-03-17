@@ -7,17 +7,18 @@ class Solution:
         """
 
         # Create dictionary for storing result
-        rest = dict()
+        res = dict()
 
         # Traverse the list
         for index in range(len(nums)):
 
             # Check if the value was stored in the dictionary as the key
-            if nums[index] not in rest.keys():
+            if nums[index] not in res.keys():
                 # If False, use difference between the target and the value as the key, and the current index will be stored in the dictionary as the value
-                rest[target - nums[index]] = index
+                res[target - nums[index]] = index
             else:
                 # If True, return difference index and current index
-                return [rest[nums[index]], index]
+                return [res[nums[index]], index]
 
         return None
+
