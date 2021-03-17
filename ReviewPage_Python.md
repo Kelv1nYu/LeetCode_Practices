@@ -94,7 +94,7 @@
 
 | Squence | Problem       | Level  | Language  | Tags |
 |:-------:|:--------------|:------:|:---------:|:----:|
-|1|[Two_Sum](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Two_Sum.md)|Easy|Python3|[Array]|
+|1|[Two_Sum](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Python3/Two_Sum.md)|Easy|Python3|[Array]|
 |2|[Add_Two_Numbers](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Add_Two_Numbers.md)|Medium|Python3|[Linked List]|
 |14|[Longest_Common_Prefix](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Longest_Common_Prefix.md)|Easy|Python3|[String]|
 |15|[3Sum](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/3Sum.md)|Medium|Python3|[Array]

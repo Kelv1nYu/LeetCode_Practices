@@ -18,4 +18,4 @@ Because nums[0] + nums[1] = 2 + 7 = 9, return [0, 1].
 
 #### Go to review
 
-[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Two_Sum.md)
+[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Python3/Two_Sum.md)
