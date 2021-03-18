@@ -22,4 +22,4 @@ Explanation: 342 + 465 = 807.
 
 #### Go to review
 
-[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Add_Two_Numbers.md)
+[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Python3/Add_Two_Numbers.md)
