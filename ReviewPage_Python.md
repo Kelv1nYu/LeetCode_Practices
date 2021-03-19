@@ -92,10 +92,11 @@
 
 
 
-| Squence | Problem       | Level  | Language  | Tags |
-|:-------:|:--------------|:------:|:---------:|:----:|
-|1|[Two_Sum](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Python3/Two_Sum.md)|Easy|Python3|[Array]|
-|2|[Add_Two_Numbers](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Python3/Add_Two_Numbers.md)|Medium|Python3|[Linked List]|
+| Squence | Problem       | Level  | Language  | Tags |Time Complexity|Space Complexity|
+|:-------:|:--------------|:------:|:---------:|:----:|:-------------:|:--------------:|
+|1|[Two_Sum](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Python3/Two_Sum.md)|Easy|Python3|Array|O(n)|O(n)|
+|2|[Add_Two_Numbers](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Python3/Add_Two_Numbers.md)|Medium|Python3|Linked List|O(n)|O(1)|
+|3|[Longest_Substring_Without_Repeating_Characters](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Python3/Add_Two_Numbers.md)|Medium|Python3|String|O(n)|O(1)|
 |14|[Longest_Common_Prefix](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Longest_Common_Prefix.md)|Easy|Python3|[String]|
 |15|[3Sum](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/3Sum.md)|Medium|Python3|[Array]
 |19|[Remove_Nth_Node_From_End_of_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Remove_Nth_Node_From_End_of_List.md)|Medium|Python3|[Linked List]|
