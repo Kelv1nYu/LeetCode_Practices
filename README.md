@@ -13,10 +13,11 @@ Python Algorithm
 
 | Squence | Problem       | Level  | Language  | Tags |Time Complexity|Space Complexity|
 |:-------:|:--------------|:------:|:---------:|:----:|:-------------:|:--------------:|
-|1|[Two Sum](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Two_Sum.md)|Easy|Python3|Array|O(n)|O(n)|
-|2|[Add Two Numbers](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/RProblems/Add_Two_Numbers.md)|Medium|Python3|Linked List|O(max(m,n))|O(max(m,n))|
-|3|[Longest Substring Without Repeating Characters](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Longest_Substring_Without_Repeating_Characters.md)|Medium|Python3|String|O(n)|O(min(m,n))|
-|4|[Median of Two Sorted Arrays](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Median_of_Two_Sorted_Arrays.md)|Hard|Python3|Array|O(log(min(m,n)))|O(1)|
+|1|[Two Sum](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Two_Sum.md)|Easy|Python3|Array, Hash Table|O(n)|O(n)|
+|2|[Add Two Numbers](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/RProblems/Add_Two_Numbers.md)|Medium|Python3|Linked List, Math|O(max(m,n))|O(max(m,n))|
+|3|[Longest Substring Without Repeating Characters](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Longest_Substring_Without_Repeating_Characters.md)|Medium|Python3|String, Two Pointers, Hash Table, Sliding Window|O(n)|O(min(m,n))|
+|4|[Median of Two Sorted Arrays](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Median_of_Two_Sorted_Arrays.md)|Hard|Python3|Array, Binary Search|O(log(min(m,n)))|O(1)|
+|5|[Longest Palindromic Substring](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Longest_Palindromic_Substring.md)|Hard|Python3|String, Dynamic Programming|O(log(min(m,n)))|O(1)|
 |14|[Longest_Common_Prefix](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Longest_Common_Prefix.md)|Easy|Python3|[String]|
 |15|[3Sum](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/3Sum.md)|Medium|Python3|[Array]
 |19|[Remove_Nth_Node_From_End_of_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Remove_Nth_Node_From_End_of_List.md)|Medium|Python3|[Linked List]|
