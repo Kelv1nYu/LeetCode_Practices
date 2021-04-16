@@ -97,7 +97,7 @@ Python Algorithm
 |557|[Reverse_Words_in_a_String_III](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_Words_in_a_String_III.md)|Easy|Python3|[Array]|
 |561|[Array_Partition_I](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Array_Partition_I.md)|Easy|Python3|[]|
 |621|[Task_Scheduler](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Task_Scheduler.md)|Medium|Python3|[Math]
-|654|[Maximum Binary Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Maximum_Binary_Tree.md)|Medium|Python3|Tree|||
+|654|[Maximum Binary Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Maximum_Binary_Tree.md)|Medium|Python3|Tree|O(nlogn)|O(logn)|
 |657|[Robot_Return_to_Origin](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Judge_Route_Circle.md)|Easy|Python3|[]|
 |662|[Maximum_Width_of_Binary_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Maximum_Width_of_Binary_Tree.md)|Medium|Python3|[Tree]
 |682|[Baseball Game](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Baseball_Game.md)|Easy|Python3|Stack|O(n)|O(n)|
