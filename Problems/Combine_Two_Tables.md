@@ -36,4 +36,4 @@ AddressId is the primary key column for this table.
 
 #### Go to review
 
-[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Combine_Two_Tables.md)
+[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/MySQL/Combine_Two_Tables.md)
