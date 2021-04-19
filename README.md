@@ -35,6 +35,7 @@ Python Algorithm
 |66|[Plus_One](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Plus_One.md)|Easy|Python3|[Array]|
 |67|[Add_Binary](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Add_Binary.md)|Easy|Python3|[String]|
 |70|[Climbing_Stairs](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Climbing_Stairs.md)|Easy|Python3|[Recursion]
+|74|[Search a 2D Matrix](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Search_a_2D_Matrix.md)|Medium|Python3|Array, <br>Binary Search|O(log(mn))|O(1)|
 |77|[Combinations](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Combinations.md)|Medium|Python3|[Recursion]
 |78|[Subsets](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Subsets.md)|Medium|Python3|[Array]
 |79|[Word_Search](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Word_Search.md)|Medium|Python3|[Tree]
