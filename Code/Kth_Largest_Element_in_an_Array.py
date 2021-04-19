@@ -1,10 +1,22 @@
 class Solution:
-    def findKthLargest(self, nums: List[int], k: int) -> int:
+    def findKthLargest(self, nums, k):
+        """
+        :type1 nums: List[int]
+        :type2 k: int
+        :rtype: int
+        """
         if len(nums) == 0:
             return 0
         return self.selection(nums, 0, len(nums)-1, len(nums)-k)
     
     def selection(self, nums, l, r, k):
+        """
+        :type1 nums: List[int]
+        :type2 l: int
+        :type3 r: int
+        :type3 k: int
+        :rtype: int
+        """
         if l == r:
             return nums[l]
 
@@ -23,6 +35,13 @@ class Solution:
             return self.selection(nums, pivot_index+1, r, k)
     
     def partition(self, nums, l, r, pivot_index):
+        """
+        :type1 nums: List[int]
+        :type2 l: int
+        :type3 r: int
+        :type3 pivot_index: int
+        :rtype: int
+        """
         pivot = nums[pivot_index]
         # move pivot to end
         nums[pivot_index], nums[r] = nums[r], nums[pivot_index]  
@@ -38,6 +57,11 @@ class Solution:
         return store_index
 
 class Solution2:
-    def findKthLargest(self, nums: List[int], k: int) -> int:
+    def findKthLargest(self, nums, k):
+        """
+        :type1 nums: List[int]
+        :type2 k: int
+        :rtype: int
+        """
         # Sort the array and take the number in reverse order
         return sorted(nums)[-k]
