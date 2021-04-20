@@ -42,7 +42,7 @@ Can you achieve this in O(log n) time complexity?
 
 ####  Go to answer
 
-[Search_in_Rotated_Sorted_Array.sql](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Search_in_Rotated_Sorted_Array.py)
+[Search_in_Rotated_Sorted_Array.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Search_in_Rotated_Sorted_Array.py)
 
 #### Go to review
 
