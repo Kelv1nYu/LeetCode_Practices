@@ -38,8 +38,8 @@ Could you write an algorithm with O(log n) runtime complexity?
 
 ####  Go to answer
 
-[First_and_Last_Position_of_Element_in_Sorted_Array.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/First_and_Last_Position_of_Element_in_Sorted_Array.py)
+[Find_First_and_Last_Position_of_Element_in_Sorted_Array.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)
 
 #### Go to review
 
-[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Python3/First_and_Last_Position_of_Element_in_Sorted_Array.md)
+[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Python3/Find_First_and_Last_Position_of_Element_in_Sorted_Array.md)

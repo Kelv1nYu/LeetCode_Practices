@@ -1,4 +1,4 @@
-**34. [First_and_Last_Position_of_Element_in_Sorted_Array.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/First_and_Last_Position_of_Element_in_Sorted_Array.py)**      Level: Medium
+**34. [Find_First_and_Last_Position_of_Element_in_Sorted_Array.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Find_First_and_Last_Position_of_Element_in_Sorted_Array.py)**      Level: Medium
 
 中文：
 * 使用二分搜索的变种算法实现。

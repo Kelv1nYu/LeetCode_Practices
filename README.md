@@ -27,7 +27,8 @@ Python Algorithm
 |26|[Remove_Duplicates_from_Sorted_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Remove_Duplicates_from_Sorted_Array.md)|Easy|Python3|[Array]|
 |27|[Remove_Element](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Remove_Element.md)|Easy|Python3|[Array]|
 |28|[Implement_strStr()](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Implement_strStr.md)|Easy|Python3|[String]|
-|34|[Find First and Last Position of Element in Sorted Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Find First_and_Last_Position_of_Element_in_Sorted_Array.md)|Medium|Python3|Array, <br>Binary Search|O(logn)|O(1)|
+|33|[Search_in_Rotated_Sorted_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Find Search_in_Rotated_Sorted_Array.md)|Medium|Python3|Array, <br>Binary Search|O(logn)|O(1)|
+|34|[Find First and Last Position of Element in Sorted Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Find_First_and_Last_Position_of_Element_in_Sorted_Array.md)|Medium|Python3|Array, <br>Binary Search|O(logn)|O(1)|
 |37|[Sudoku_Solver](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Sudoku_Solver.md)|Hard|Python3|[Recursion]|
 |50|[Pow(x, n)](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Pow_x_n.md)|Medium|Python3|[Recursion]
 |52|[N-Queens_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/N_Queens_II.md)|Hard|Python3|[Recursion]
