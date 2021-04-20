@@ -106,6 +106,7 @@ Python Algorithm
 |657|[Robot_Return_to_Origin](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Judge_Route_Circle.md)|Easy|Python3|[]|
 |662|[Maximum_Width_of_Binary_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Maximum_Width_of_Binary_Tree.md)|Medium|Python3|[Tree]
 |682|[Baseball Game](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Baseball_Game.md)|Easy|Python3|Stack|O(n)|O(n)|
+|695|[Max Area of Island](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Max_Area_of_Island.md)|Medium|Python3|Array, <br>DFS|O(mn)|O(1)|
 |700|[Search_in_a_Binary_Search_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Search_in_a_Binary_Search_Tree.md)|Easy|Python3|[Recursion]|
 |701|[Insert_into_a_Binary_Search_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Insert_into_a_Binary_Search_Tree.md)|Medium|Python3|[Tree]|
 |703|[Kth_Largest_Element_in_a_Stream](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Kth_Largest_Element_in_a_Stream.md)|Easy|Python3|[Tree]|
