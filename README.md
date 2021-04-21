@@ -66,6 +66,7 @@ Python Algorithm
 |173|[Binary_Search_Tree_Iterator](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Binary_Search_Tree_Iterator.md)|Medium|Python3|[Tree]|
 |189|[Rotate_Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Rotate_Array.md)|Easy|Python3|[Array]|
 |190|[Reverse_Bits](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_Bits.md)|Easy|Python3|[Bit Manipulation]
+|200|[Number of Islands](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Number_of_Islands.md)|Medium|Python3|Array, <br>DFS|O(mn)|O(mn)|
 |203|[Remove_Linked_List_Elements](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Remove_Linked_List_Elements.md)|Easy|Python3|[Linked List]|
 |206|[Reverse_Linked_List](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_Linked_List.md)|Easy|Python3|[Linked List]|
 |209|[Minimum_Size_Subarray_Sum](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Minimum_Size_Subarray_Sum.md)|Medium|Python3|[Array]|
@@ -106,7 +107,7 @@ Python Algorithm
 |657|[Robot_Return_to_Origin](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Judge_Route_Circle.md)|Easy|Python3|[]|
 |662|[Maximum_Width_of_Binary_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Maximum_Width_of_Binary_Tree.md)|Medium|Python3|[Tree]
 |682|[Baseball Game](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Baseball_Game.md)|Easy|Python3|Stack|O(n)|O(n)|
-|695|[Max Area of Island](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Max_Area_of_Island.md)|Medium|Python3|Array, <br>DFS|O(mn)|O(1)|
+|695|[Max Area of Island](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Max_Area_of_Island.md)|Medium|Python3|Array, <br>DFS|O(mn)|O(mn)|
 |700|[Search_in_a_Binary_Search_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Search_in_a_Binary_Search_Tree.md)|Easy|Python3|[Recursion]|
 |701|[Insert_into_a_Binary_Search_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Insert_into_a_Binary_Search_Tree.md)|Medium|Python3|[Tree]|
 |703|[Kth_Largest_Element_in_a_Stream](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Kth_Largest_Element_in_a_Stream.md)|Easy|Python3|[Tree]|
