@@ -57,6 +57,7 @@ Python Algorithm
 |110|[Balanced_Binary_Tree](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Balanced_Binary_Tree.md)|Easy|Python3|[Tree]
 |118|[Pascal's_Triangle](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Pascals_Triangle.md)|Easy|Python3|[Matrix]|
 |119|[Pascal's_Triangle_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Pascals_Triangle_II.md)|Easy|Python3|[Matrix]|
+|131|[Palindrome Partitioning](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Palindrome_Partitioning.md)|Medium|Python3|Array, <br>DFS, <br>Backtracking|O(n2<sup>n</sup>)|O(n2<sup>n</sup>)|
 |138|[Copy_List_with_Random_Pointer](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Copy_List_with_Random_Pointer.md)|Medium|Python3|[Linked List]|
 |140|[Word_Break_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Word_Break_II.md)|Hard|Python3|[Dynamic Programming]|
 |141|[Linked_List_Cycle](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Linked_List_Cycle.md)|Easy|Python3|[Linked List]|
