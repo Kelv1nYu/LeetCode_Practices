@@ -30,6 +30,7 @@ Python Algorithm
 |33|[Search in Rotated Sorted Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Find Search_in_Rotated_Sorted_Array.md)|Medium|Python3|Array, <br>Binary Search|O(logn)|O(1)|
 |34|[Find First and Last Position of Element in Sorted Array](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Find_First_and_Last_Position_of_Element_in_Sorted_Array.md)|Medium|Python3|Array, <br>Binary Search|O(logn)|O(1)|
 |37|[Sudoku_Solver](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Sudoku_Solver.md)|Hard|Python3|[Recursion]|
+|39|[Combination Sum](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Combination_Sum.md)|Medium|Python3|Array, <br>DFS, <br>Backtracking|O(n<sup>(T/M)+1<sup>)|O(n<sup>(T/M)<sup>)|
 |46|[Permutations](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Permutations.md)|Medium|Python3|Array, <br>DFS, <br>Backtracking|O(n!)|O(n!)|
 |47|[Permutations II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Permutations_II.md)|Medium|Python3|Array, <br>DFS, <br>Backtracking|O((n-m)!)|O((n-m)!)|
 |50|[Pow(x, n)](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Pow_x_n.md)|Medium|Python3|[Recursion]
