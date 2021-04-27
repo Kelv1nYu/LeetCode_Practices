@@ -1,6 +1,6 @@
-### Binary Tree Inorder Traversal
+### Binary Tree Preorder Traversal
 
-Given the root of a binary tree, return the inorder traversal of its nodes' values.
+**Given the root of a binary tree, return the preorder traversal of its nodes' values.**
 
 #### Example 1:
 
@@ -53,15 +53,15 @@ Output: [1,2]
 
 * The number of nodes in the tree is in the range [0, 100].
 * -100 <= Node.val <= 100
- 
+
 #### Follow up:
 
 Recursive solution is trivial, could you do it iteratively?
 
 ####  Go to answer
 
-[Binary_Tree_Inorder_Traversal.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Binary_Tree_Inorder_Traversal.py)
+[Binary_Tree_Preorder_Traversal.py](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Code/Binary_Tree_Preorder_Traversal.py)
 
 #### Go to review
 
-[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Python3/Binary_Tree_Inorder_Traversal.md)
+[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/Python3/Binary_Tree_Preorder_Traversal.md)
