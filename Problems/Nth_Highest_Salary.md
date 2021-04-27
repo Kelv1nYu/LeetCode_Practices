@@ -29,4 +29,4 @@ For example, given the above `Employee` table, the nth highest salary where n = 
 
 #### Go to review
 
-[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/ReviewPage.md)
+[Review Page](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Review/MySQL/Nth_Highest_Salary.md)

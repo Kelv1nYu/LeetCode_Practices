@@ -150,7 +150,7 @@ Sql
 |:-------:|:--------------|:------:|:---------:|:----:|
 |175|[Combine_Two_Tables](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Combine_Two_Tables.md)|Easy|MySQL|Join|
 |176|[Second_Highest_Salary](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Second_Highest_Salary.md)|Easy|MySQL|[Sub-query, LIMIT]|
-|177|[Nth_Highest_Salary](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Nth_Highest_Salary.md)|Medium|Sql|[]|
+|177|[Nth_Highest_Salary](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Nth_Highest_Salary.md)|Medium|Sql|Function, LIMIT|
 |178|[Rank_Scores](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Rank_Scores.md)|Medium|Sql|[]|
 |180|[Consecutive_Numbers](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Consecutive_Numbers.md)|Medium|Sql|[]|
 |181|[Employees_Earning_More_Than_Their_Managers](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Employees_Earning_More_Than_Their_Managers.md)|Easy|Sql|[]|
