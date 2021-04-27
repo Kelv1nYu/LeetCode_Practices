@@ -64,6 +64,7 @@ Python Algorithm
 |141|[Linked_List_Cycle](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Linked_List_Cycle.md)|Easy|Python3|[Linked List]|
 |142|[Linked_List_Cycle_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Linked_List_Cycle_II.md)|Medium|Python3|[Linked List]|
 |144|[Binary Tree Preorder Traversal](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Binary_Tree_Preorder_Traversal.md)|Medium|Python3|Tree, <br>DFS|O(n)|O(n)|
+|145|[Binary Tree Postorder Traversal](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Binary_Tree_Postorder_Traversal.md)|Medium|Python3|Tree, <br>DFS|O(n)|O(n)|
 |151|[Reverse_Words_in_a_String](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Reverse_Words_in_a_String.md)|Easy|Python3|[Array]|
 |154|[Find_Minimum_in_Rotated_Sorted_Array_II](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Find_Minimum_in_Rotated_Sorted_Array_II.md)|Hard|Python3|[Array]
 |160|[Intersection_of_Two_Linked_Lists](https://github.com/Kelv1nYu/LeetCode_Practices/blob/master/Problems/Intersection_of_Two_Linked_Lists.md)|Easy|Python3|[Linked List]|

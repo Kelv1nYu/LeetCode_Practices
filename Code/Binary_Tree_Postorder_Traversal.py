@@ -7,7 +7,7 @@ class TreeNode:
 
 # Recursively        
 class Solution:
-    def preorderTraversal(self, root):
+    def postorderTraversal(self, root):
         """
         :type root: TreeNode
         :rtype: List[int]
@@ -25,17 +25,17 @@ class Solution:
         """
         # check if root exists
         if root:
-            # put current value in the result
-            res.append(root.val)
             # dfs find root's left child
             self.helper(root.left, res)
             # dfs find root's right child
             self.helper(root.right, res)
+            # put current value in the result
+            res.append(root.val)
 
 
 # Iteratively
 class Solution2:
-    def preorderTraversal(self, root):
+    def postorderTraversal(self, root):
         """
         :type root: TreeNode
         :rtype: List[int]
@@ -52,9 +52,11 @@ class Solution2:
             if root:
                 # add value in result
                 res.append(root.val)
-                # push right child and left child into stack (first in last out)
-                if root.right:
-                    stack.append(root.right)
+                # push left child and right child into stack (first in last out)
                 if root.left:
                     stack.append(root.left)
-        return res
+                if root.right:
+                    stack.append(root.right)
+                
+        # reverse result
+        return res[::-1]
